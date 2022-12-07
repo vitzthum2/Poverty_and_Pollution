@@ -1,0 +1,21 @@
+OBJECTID,Site_Name,Site_Score,Site_EPA_ID,SEMS_ID,SITS_ID,Region_ID,State,City,County,Status,Longitude,Latitude,Acerage,ObjectId2
+1,California Gulch,55.84,COD980717938,801478,853,8,Colorado,Leadville,Lake,NPL Site,-106.2692,39.236111,11520,470
+2,"Central City, Clear Creek",51.39,COD980717557,800257,854,8,Colorado,Idaho Springs,Clear Creek,NPL Site,-105.5,39.75,256000,471
+3,Denver Radium Site,44.11,COD980716955,800247,855,8,Colorado,Denver,Denver,NPL Site,-105,39.716669,17,472
+4,Marshall Landfill,0,COD980499255,800187,856,8,Colorado,Boulder County,Boulder,NPL Site,-105.2,39.95,160,473
+5,Broderick Wood Products,35.13,COD000110254,800030,859,8,Colorado,Denver,Adams,NPL Site,-104.9989,39.8148,64,476
+6,Lincoln Park,31.31,COD042167858,800115,860,8,Colorado,Canon City,Fremont,NPL Site,-105.2333,38.4,2600,477
+7,Lowry Landfill,48.36,COD980499248,800186,861,8,Colorado,Arapahoe County,Arapahoe,NPL Site,-104.7083,39.643331,507,478
+8,Eagle Mine,47.19,COD081961518,800159,862,8,Colorado,"Minturn, Redcliff",Eagle,NPL Site,-106.3917,39.533331,235,479
+9,Uravan Uranium Project (Union Carbide Corp.),43.53,COD007063274,800076,864,8,Colorado,Uravan,Montrose,NPL Site,-108.7483,38.366661,680,481
+10,Rocky Flats Plant (USDOE),64.32,CO7890010526,800360,865,8,Colorado,Golden,Jefferson,NPL Site,-105.2017,39.894169,6240,482
+11,Rocky Mountain Arsenal (USARMY),58.15,CO5210020769,800357,866,8,Colorado,Adams County,Adams,NPL Site,-104.8842,39.835561,17280,483
+12,Chemical Sales Co.,37.93,COD007431620,800866,1091,8,Colorado,Denver,Denver,NPL Site,-104.9136,39.780831,3200,484
+13,Air Force Plant PJKS,42.93,CO7570090038,800359,1114,8,Colorado,Waterton,Jefferson,NPL Site,-105.1337,39.514219,464,485
+14,Summitville Mine,50,COD983778432,801194,1366,8,Colorado,Rio Grande County,Rio Grande,NPL Site,-106.585,37.43,1400,487
+15,Vasquez Boulevard and I-70,50,CO0002259588,801646,1545,8,Colorado,Denver,Denver,NPL Site,-104.958333,39.791667,50,488
+16,Captain Jack Mill,50.56,COD981551427,800892,1674,8,Colorado,Ward,Boulder,NPL Site,-105.503611,40.055833,1,489
+17,Standard Mine,50,CO0002378230,801669,1740,8,Colorado,Gunnison National Forest,Gunnison,NPL Site,-107.07389,38.879167,10,490
+18,Nelson Tunnel/Commodore Waste Rock,48.03,CON000802630,802630,1778,8,Colorado,Creede,Mineral,NPL Site,-106.94,37.870833,51200,491
+19,Colorado Smelter,50,CON000802700,802700,1892,8,Colorado,Pueblo,Pueblo,NPL Site,-104.608,38.2491,25,492
+20,Bonita Peak Mining District,50,CON000802497,802497,1914,8,Colorado,San Juan County,San Juan,NPL Site,-107.616619,37.904031,150,493
